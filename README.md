@@ -5,7 +5,7 @@ This repository contains code and data for analyzing the Global Terrorism Databa
 ## Dataset
 
 The dataset used for this analysis is available in the following URL: [Dataset CSV](https://tinyurl.com/43edcbf5).
-It contains 1,81,691 rows and 135 columns:
+It contains 1,81,691 rows and 135 columns.
 
 ## Data Preprocessing
 
